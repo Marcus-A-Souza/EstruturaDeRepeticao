@@ -1,0 +1,1 @@
+É um programa simples mais é uma saida para algum possível problema, saber implementar num programa e função FOR faz toda a diferença.Fiz uma estrutura de repetição usando o for, no programa pergunta ao usuário quantos números ele quer digitar e em seguida o programa roda a quantidade estabelecida e no final diz a soma.Adicionar arquivos de projeto.
